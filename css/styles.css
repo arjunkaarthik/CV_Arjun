@@ -1,0 +1,116 @@
+body {
+  background-color: #F0FFFF;
+  margin: 0;
+  font-size: 1em;
+  font-family: Montserrat, cursive;
+}
+
+h1{
+  color: #292929;
+  font-family: cursive, Montserrat, sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  padding: 3px;
+  margin: 0;
+}
+
+h2,h3{
+  color: #333333;
+  font-family: cursive, Montserrat, sans-serif;
+  font-size: 1.5rem;
+  line-height: 1;
+  padding: 3px;
+  margin: 0;
+}
+
+p {
+  line-height: 1.5;
+  padding: 1 0;
+  margin: 0;
+}
+
+hr {
+  width: 15%;
+  margin: 25px auto;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.navbar-brand{
+  font-family: "Ununtu";
+  font-size: 2.1rem;
+  line-height: 1.5;
+
+}
+
+.container-fluid {
+  padding: 1% 1%;
+}
+.top-container {
+  position: relative;
+  padding-top: 20px;
+  text-align: center;
+  margin: 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.copyright {
+  color: #FFFAFA;
+  padding: 20px 0;
+}
+
+.feature {
+  text-align: center;
+  background-color: #89CFF0;
+  padding: 10px 5px;
+  margin: 0;
+
+}
+
+.contna
+{
+  color: #36454F;
+}
+
+.feature-box
+{
+  padding: 5%
+}
+
+a {
+    color: #36454F;
+    text-decoration: none;
+}
+
+a:hover {
+  color: #FFFFFF ;
+}
+
+.fas{
+  color: #EF8172;
+}
+
+@media (max-width: 1028px) {
+  body{
+    text-align: center;
+  }
+}
